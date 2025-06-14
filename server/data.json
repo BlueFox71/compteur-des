@@ -1,0 +1,51 @@
+{
+  "joueurs": [
+    {
+      "nom": "Jules",
+      "sexe": "M"
+    },
+    {
+      "nom": "Ange",
+      "sexe": "M"
+    },
+    {
+      "nom": "Marie",
+      "sexe": "F"
+    }
+  ],
+  "typesJets": [
+    {
+      "type": "Force"
+    },
+    {
+      "type": "Dextérité"
+    },
+    {
+      "type": "Intelligence"
+    },
+    {
+      "type": "Endurance"
+    },
+    {
+      "type": "Constitution"
+    },
+    {
+      "type": "Sagesse"
+    },
+    {
+      "type": "Perception"
+    },
+    {
+      "type": "Charisme"
+    },
+    {
+      "type": "Éducation"
+    },
+    {
+      "type": "Discrétion"
+    },
+    {
+      "type": "Initiative"
+    }
+  ]
+}

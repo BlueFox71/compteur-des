@@ -1,0 +1,14 @@
+{
+  "campagnes": [
+    {
+      "id": "1749484423185",
+      "nom": "I - Les Défias",
+      "dateCreation": "2025-06-09T15:53:43.185Z"
+    },
+    {
+      "id": "1749485900981",
+      "nom": "II - Les secrets du mont Rochenoire",
+      "dateCreation": "2025-06-09T16:18:20.981Z"
+    }
+  ]
+}

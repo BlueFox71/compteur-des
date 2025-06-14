@@ -1,0 +1,7176 @@
+{
+  "seances": [
+    {
+      "nom": "La forêt d'elwynn",
+      "dateDebut": "2025-06-09T16:15:38.600Z",
+      "dateFin": "2025-06-09T16:15:38.603Z",
+      "duree": "9h30",
+      "nombreJets": 287,
+      "jets": [
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 1
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 2
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 3
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 4
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 5
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 6
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 7
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 8
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 9
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 10
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 11
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 12
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 13
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 14
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 15
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 16
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 17
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 18
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 19
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 20
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 21
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 22
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 23
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 24
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 25
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 26
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 27
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 28
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 29
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 30
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 31
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 32
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 33
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 34
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 35
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 36
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 37
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 38
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 39
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 40
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 41
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 42
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 43
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 44
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 45
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 46
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 47
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 48
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 49
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 50
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 51
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 52
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 53
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 54
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 55
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 56
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 57
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 58
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 59
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 60
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 61
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 62
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 63
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 64
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 65
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 66
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 67
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 68
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 69
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 70
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 71
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 72
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 73
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 74
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 75
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 76
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 77
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 78
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 79
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 80
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 81
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 82
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 83
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 84
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 85
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 86
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 87
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 88
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 89
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 90
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 91
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 92
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 93
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 94
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 95
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 96
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 97
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 98
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 99
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 100
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 101
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 102
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 103
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 104
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 105
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 106
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 107
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 108
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 109
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 110
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 111
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 112
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 113
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 114
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 115
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 116
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 117
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 118
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 119
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 120
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 121
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 122
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 123
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 124
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 125
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 126
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 127
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 128
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 129
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 130
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 131
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 132
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 133
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 134
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 135
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 136
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 137
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 138
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 139
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 140
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 141
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 142
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 143
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 144
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 145
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 146
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 147
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 148
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 149
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 150
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 151
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 152
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 153
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 154
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 155
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 156
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 157
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 158
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 159
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 160
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 161
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 162
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 163
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 164
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 165
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 166
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 167
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 168
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 169
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 170
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 171
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 172
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 173
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 174
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 175
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 176
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 177
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 178
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 179
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 180
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 181
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 182
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 183
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 184
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 185
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 186
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 187
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 188
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 189
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 190
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 191
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 192
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 193
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 194
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 195
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 196
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 197
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 198
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 199
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 200
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 201
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 202
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 203
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 204
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 205
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 206
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 207
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 208
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 209
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 210
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 211
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 212
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 213
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 214
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 215
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 216
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 217
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 218
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 219
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 220
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 221
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 222
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 223
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 224
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 225
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 226
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 227
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 228
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 229
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 230
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 231
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 232
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 233
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 234
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 235
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 236
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 237
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 238
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 239
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 240
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 241
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 242
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 243
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 244
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 245
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 246
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 247
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 248
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 249
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 250
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 251
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 252
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 253
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 254
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 255
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 256
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 257
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 258
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 259
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 260
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 261
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 262
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 263
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 264
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 265
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 266
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 267
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 268
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 269
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 270
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 271
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 272
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 273
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 274
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 275
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 276
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 277
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 278
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 279
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 280
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 281
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 282
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 283
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 284
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 285
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 286
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 287
+        }
+      ],
+      "importee": true,
+      "typeJetInconnu": true,
+      "campagne": "I - Les Défias",
+      "episode": "1 + 2",
+      "id": "1749485738603"
+    },
+    {
+      "nom": "Les mortemines",
+      "dateDebut": "2025-06-09T16:16:49.209Z",
+      "dateFin": "2025-06-09T16:16:49.213Z",
+      "duree": "5h30",
+      "nombreJets": 199,
+      "jets": [
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 1
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 2
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 3
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 4
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 5
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 6
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 7
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 8
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 9
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 10
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 11
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 12
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 13
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 14
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 15
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 16
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 17
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 18
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 19
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 20
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 21
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 22
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 23
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 24
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 25
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 26
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 27
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 28
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 29
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 30
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 31
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 32
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 33
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 34
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 35
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 36
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 37
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 38
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 39
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 40
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 41
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 42
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 43
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 44
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 45
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 46
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 47
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 48
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 49
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 50
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 51
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 52
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 53
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 54
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 55
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 56
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 57
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 58
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 59
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 60
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 61
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 62
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 63
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 64
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 65
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 66
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 67
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 68
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 69
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 70
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 71
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 72
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 73
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 74
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 75
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 76
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 77
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 78
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 79
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 80
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 81
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 82
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 83
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 84
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 85
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 86
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 87
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 88
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 89
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 90
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 91
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 92
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 93
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 94
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 95
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 96
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 97
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 98
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 99
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 100
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 101
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 102
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 103
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 104
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 105
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 106
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 107
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 108
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 109
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 110
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 111
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 112
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 113
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 114
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 115
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 116
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 117
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 118
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 119
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 120
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 121
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 122
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 123
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 124
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 125
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 126
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 127
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 128
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 129
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 130
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 131
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 132
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 133
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 134
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 135
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 136
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 137
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 138
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 139
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 140
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 141
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 142
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 143
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 144
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 145
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 146
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 147
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 148
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 149
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 150
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 151
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 152
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 153
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 154
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 155
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 156
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 157
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 158
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 159
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 160
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 161
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 162
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 163
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 164
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 165
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 166
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 167
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 168
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 169
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 170
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 171
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 172
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 173
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 174
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 175
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 176
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 177
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 178
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 179
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 180
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 181
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 182
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 183
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 184
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 185
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 186
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 187
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 188
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 189
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 190
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 191
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 192
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 193
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 194
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 195
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 196
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 197
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 198
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 199
+        }
+      ],
+      "importee": true,
+      "typeJetInconnu": true,
+      "campagne": "I - Les Défias",
+      "episode": "3",
+      "id": "1749485809213"
+    },
+    {
+      "nom": "Le vrai visage de Katrana Prestor",
+      "dateDebut": "2025-06-09T16:17:26.920Z",
+      "dateFin": "2025-06-09T16:17:26.924Z",
+      "duree": "2h",
+      "nombreJets": 95,
+      "jets": [
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 1
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 2
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 3
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 4
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 5
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 6
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 7
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 8
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 9
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 10
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 11
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 12
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 13
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 14
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 15
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 16
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 17
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 18
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 19
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 20
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 21
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 22
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 23
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 24
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 25
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 26
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 27
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 28
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 29
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 30
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 31
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 32
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 33
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 34
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 35
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 36
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 37
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 38
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 39
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 40
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 41
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 42
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 43
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 44
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 45
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 46
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 47
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 48
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 49
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 50
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 51
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 52
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 53
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 54
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 55
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 56
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 57
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 58
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 59
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 60
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 61
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 62
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 63
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 64
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 65
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 66
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 67
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 68
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 69
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 70
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 71
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 72
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 73
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 74
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 75
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 76
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 77
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 78
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 79
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 80
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 81
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 82
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 83
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 84
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 85
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 86
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 87
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 88
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 89
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 90
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 91
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 92
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 93
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 94
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 95
+        }
+      ],
+      "importee": true,
+      "typeJetInconnu": true,
+      "campagne": "I - Les Défias",
+      "episode": "4",
+      "id": "1749485846924"
+    },
+    {
+      "nom": "Les Carmines",
+      "dateDebut": "2025-06-09T16:19:30.093Z",
+      "dateFin": "2025-06-09T16:19:30.096Z",
+      "duree": "2h45",
+      "nombreJets": 109,
+      "jets": [
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 1
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 2
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 3
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 4
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 5
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 6
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 7
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 8
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 9
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 10
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 11
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 12
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 13
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 14
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 15
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 16
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 17
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 18
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 19
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 20
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 21
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 22
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 23
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 24
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 25
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 26
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 27
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 28
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 29
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 30
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 31
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 32
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 33
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 34
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 35
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 36
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 37
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 38
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 39
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 40
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 41
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 42
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 43
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 44
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 45
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 46
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 47
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 48
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 49
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 50
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 51
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 52
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 53
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 54
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 55
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 56
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 57
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 58
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 59
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 60
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 61
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 62
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 63
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 64
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 65
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 66
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 67
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 68
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 69
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 70
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 71
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 72
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 73
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 74
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 75
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 76
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 77
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 78
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 79
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 80
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 81
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 82
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 83
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 84
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 85
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 86
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 87
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 88
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 89
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 90
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 91
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 92
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 93
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 94
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 95
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 96
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 97
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 98
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 99
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 100
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 101
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 102
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 103
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 104
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 105
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 106
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 107
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 108
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 109
+        }
+      ],
+      "importee": true,
+      "typeJetInconnu": true,
+      "campagne": "II - Les secrets du mont Rochenoire",
+      "episode": "1",
+      "id": "1749485970096"
+    },
+    {
+      "nom": "Sommet du mont Rocheboire",
+      "dateDebut": "2025-06-09T16:19:56.037Z",
+      "dateFin": "2025-06-09T16:19:56.040Z",
+      "duree": "5h30",
+      "nombreJets": 216,
+      "jets": [
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 1
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 2
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 3
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 4
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 5
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 6
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 7
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 8
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 9
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 10
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 11
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 12
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 13
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 14
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 15
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 16
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 17
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 18
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 19
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 20
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 21
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 22
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 23
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 24
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 25
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 26
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 27
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 28
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 29
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 30
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 31
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 32
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 33
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 34
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 35
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 36
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 37
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 38
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 39
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 40
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 41
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 42
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 43
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 44
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 45
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 46
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 47
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 48
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 49
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 50
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 51
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 52
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 53
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 54
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 55
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 56
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 57
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 58
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 59
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 60
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 61
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 62
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 63
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 64
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 65
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 66
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 67
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 68
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 69
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 70
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 71
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 72
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 73
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 74
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 75
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 76
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 77
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 78
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 79
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 80
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 81
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 82
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 83
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 84
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 85
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 86
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 87
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 88
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 89
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 90
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 91
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 92
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 93
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 94
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 95
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 96
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 97
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 98
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 99
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 100
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 101
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 102
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 103
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 104
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 105
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 106
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 107
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 108
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 109
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 110
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 111
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 112
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 113
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 114
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 115
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 116
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 117
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 118
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 119
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 120
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 121
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 122
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 123
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 124
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 125
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 126
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 127
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 128
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 129
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 130
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 131
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 132
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 133
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 134
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 135
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 136
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 137
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 138
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 139
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 140
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 141
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 142
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 143
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 144
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 145
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 146
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 147
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 148
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 149
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 150
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 151
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 152
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 153
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 154
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 155
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 156
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 157
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 158
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 159
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 160
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 161
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 162
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 163
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 164
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 165
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 166
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 167
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 168
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 169
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 170
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 171
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 172
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 173
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 174
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 175
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 176
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 177
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 178
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 179
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 180
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 181
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 182
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 183
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 184
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 185
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 186
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 187
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 188
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 189
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 190
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 191
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 192
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 193
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 194
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 195
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 196
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 197
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 198
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 199
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 200
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 201
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 202
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 203
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 204
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 205
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 206
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 207
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 208
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 209
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 210
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 211
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 212
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 213
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 214
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 215
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 216
+        }
+      ],
+      "importee": true,
+      "typeJetInconnu": true,
+      "campagne": "II - Les secrets du mont Rochenoire",
+      "episode": "2",
+      "id": "1749485996040"
+    },
+    {
+      "nom": "À la recherche de la princesse",
+      "dateDebut": "2025-06-09T16:21:24.395Z",
+      "dateFin": "2025-06-09T16:21:24.400Z",
+      "duree": "4h45",
+      "nombreJets": 186,
+      "jets": [
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 1
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 2
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 3
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 4
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 5
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 6
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 7
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 8
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 9
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 10
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 11
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 12
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 13
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 14
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 15
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 16
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 17
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 18
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 19
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 20
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 21
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 22
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 23
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 24
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 25
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 26
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 27
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 28
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 29
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 30
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 31
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 32
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 33
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 34
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 4,
+          "jetNumber": 35
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 36
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 37
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 38
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 39
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 40
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 41
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 42
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 43
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 44
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 45
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 46
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 47
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 48
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 49
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 50
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 51
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 52
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 53
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 54
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 7,
+          "jetNumber": 55
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 56
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 57
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 58
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 59
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 60
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 61
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 62
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 63
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 64
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 65
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 66
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 67
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 68
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 69
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 70
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 71
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 72
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 73
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 74
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 75
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 76
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 77
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 78
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 79
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 80
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 81
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 82
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 83
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 84
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 85
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 86
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 87
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 88
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 89
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 90
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 91
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 92
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 93
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 94
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 95
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 96
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 97
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 98
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 99
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 100
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 101
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 102
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 103
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 104
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 105
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 106
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 107
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 108
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 109
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 110
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 111
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 112
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 113
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 114
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 115
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 116
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 117
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 118
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 119
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 120
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 121
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 122
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 123
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 124
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 125
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 126
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 127
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 128
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 129
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 130
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 131
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 132
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 133
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 134
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 135
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 136
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 137
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 138
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 139
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 140
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 141
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 142
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 143
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 144
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 145
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 146
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 147
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 148
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 16,
+          "jetNumber": 149
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 150
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 151
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 152
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 153
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 154
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 155
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 156
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 157
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 158
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 159
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 160
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 161
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 162
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 163
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 164
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 165
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 166
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 167
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 168
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 169
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 170
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 171
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 172
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 173
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 174
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 175
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 176
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 177
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 178
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 179
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 180
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 181
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 182
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 183
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 184
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 185
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 186
+        }
+      ],
+      "importee": true,
+      "typeJetInconnu": true,
+      "campagne": "II - Les secrets du mont Rochenoire",
+      "episode": "3",
+      "id": "1749486084400"
+    },
+    {
+      "nom": "Le seigneur de Feu",
+      "dateDebut": "2025-06-09T16:22:20.311Z",
+      "dateFin": "2025-06-09T16:22:20.315Z",
+      "duree": "2h",
+      "nombreJets": 87,
+      "jets": [
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 1
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 2
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 3
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 4
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 5
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 1,
+          "jetNumber": 6
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 7
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 2,
+          "jetNumber": 8
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 9
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 10
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 11
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 3,
+          "jetNumber": 12
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 13
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 14
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 15
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 16
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 17
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 18
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 19
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 5,
+          "jetNumber": 20
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 21
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 22
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 6,
+          "jetNumber": 23
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 24
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 25
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 8,
+          "jetNumber": 26
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 27
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 28
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 29
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 30
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 31
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 32
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 33
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 9,
+          "jetNumber": 34
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 35
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 36
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 37
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 38
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 39
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 40
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 41
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 42
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 10,
+          "jetNumber": 43
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 44
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 45
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 11,
+          "jetNumber": 46
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 47
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 48
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 49
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 50
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 51
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 52
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 53
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 12,
+          "jetNumber": 54
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 13,
+          "jetNumber": 55
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 14,
+          "jetNumber": 56
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 57
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 58
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 59
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 60
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 61
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 15,
+          "jetNumber": 62
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 63
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 64
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 65
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 66
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 67
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 17,
+          "jetNumber": 68
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 69
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 70
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 71
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 72
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 73
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 74
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 75
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 18,
+          "jetNumber": 76
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 77
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 78
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 79
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 19,
+          "jetNumber": 80
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 81
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 82
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 83
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 84
+        },
+        {
+          "joueur": "Jules",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 85
+        },
+        {
+          "joueur": "Ange",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 86
+        },
+        {
+          "joueur": "Marie",
+          "typeJet": "Type Inconnu",
+          "resultat": 20,
+          "jetNumber": 87
+        }
+      ],
+      "importee": true,
+      "typeJetInconnu": true,
+      "campagne": "II - Les secrets du mont Rochenoire",
+      "episode": "4",
+      "id": "1749486140315"
+    }
+  ]
+}
