@@ -21,8 +21,8 @@ export default function AppRoutes() {
       <Route path="/campagnes-seances" element={<ProtectedRoute><CampagnesSeancesPage /></ProtectedRoute>} />
       <Route path="/donnees" element={<ProtectedRoute><DonneesPage /></ProtectedRoute>} />
       
-      {/* Route par défaut - redirige vers statistiques */}
-      <Route path="*" element={<Navigate to="/statistiques" replace />} />
+      {/* Route par défaut - redirige vers l'accueil */}
+      <Route path="*" element={<Navigate to="/" replace />} />
     </Routes>
   );
 } 
