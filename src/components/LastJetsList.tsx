@@ -12,6 +12,7 @@ import { useState } from 'react';
 import type { JetDeDes } from '../context/AppReducer';
 import { useAppContext } from '../context/AppReducer';
 import styled from 'styled-components';
+import { API_URL } from '../utils/api';
 
 const CommentaireText = styled.div`
   font-size: 14px;
@@ -69,7 +70,7 @@ export default function LastJetsList({ jets, onFinirSeance }: LastJetsListProps)
       };
 
       // Sauvegarder côté serveur
-      const response = await fetch(`http://localhost:3001/api/jets/${jetEnCours.id}`, {
+      const response = await fetch(`${API_URL}/api/jets/${jetEnCours.id}`, {
         method: 'PUT',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(jetModifie),

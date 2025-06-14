@@ -13,6 +13,7 @@ import {
   StyledText,
   FlexContainer 
 } from '../styles';
+import { API_URL } from '../utils/api';
 
 const { useForm } = Form;
 const { Option } = Select;
@@ -32,7 +33,7 @@ export default function JoueursTypesPage() {
   const handleSave = async (values: any) => {
     try {
       setLoading(true);
-      const response = await fetch('http://localhost:3001/api/config', {
+      const response = await fetch(`${API_URL}/api/config`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(values),

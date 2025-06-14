@@ -23,6 +23,7 @@ import PlayerButtons from '../components/PlayerButtons';
 import TypeJetButtons from '../components/TypeJetButtons';
 import ResultButtons from '../components/ResultButtons';
 import LastJetsList from '../components/LastJetsList';
+import { API_URL } from '../utils/api';
 
 const { useForm } = Form;
 const { Panel } = Collapse;
@@ -61,7 +62,7 @@ export default function SeancePage() {
 
   const chargerCampagnes = async () => {
     try {
-      const response = await fetch('http://localhost:3001/api/campagnes');
+      const response = await fetch(`${API_URL}/api/campagnes`);
       if (!response.ok) throw new Error('Erreur lors du chargement');
       const data = await response.json();
       setCampagnes(data.campagnes || []);
@@ -97,7 +98,7 @@ export default function SeancePage() {
   const handleSubmit = async (values: any) => {
     try {
       setLoading(true);
-      const response = await fetch('http://localhost:3001/api/jets', {
+      const response = await fetch(`${API_URL}/api/jets`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(values),
@@ -136,7 +137,7 @@ export default function SeancePage() {
         nombreJets: state.jets.length
       };
       
-      const response = await fetch('http://localhost:3001/api/seances', {
+      const response = await fetch(`${API_URL}/api/seances`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(seanceData),
