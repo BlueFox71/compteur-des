@@ -1,4 +1,4 @@
-import React, { createContext, useReducer, useContext, useEffect } from 'react';
+import { createContext, useReducer, useContext, useEffect } from 'react';
 import type { ReactNode, Dispatch } from 'react';
 
 export interface Joueur { nom: string; }

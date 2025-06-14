@@ -4,7 +4,6 @@ import { calculMoyenne, calculProgression } from './utils';
 
 export const calculateSpecialChampions = ({ 
   joueursAnalyse, 
-  joueursConfig, 
   seancesFiltrees, 
   getTitreGenre 
 }: ChampionCalculatorProps): Champion[] => {
