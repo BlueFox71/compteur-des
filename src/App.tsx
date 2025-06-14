@@ -11,7 +11,7 @@ function App() {
     <AdminProvider>
       <AppProvider>
         <div className="layout">
-          <BrowserRouter>
+          <BrowserRouter basename="/compteur-des">
             <HeaderBar />
             <div className="site-layout-content" style={{ width: '100%', margin: '0 auto',  }}>
               <AppRoutes />
