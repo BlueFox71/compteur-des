@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import Card from 'antd/lib/card';
 import Button from 'antd/lib/button';
 import Input from 'antd/lib/input';
 import Form from 'antd/lib/form';
@@ -9,7 +8,6 @@ import Modal from 'antd/lib/modal';
 import message from 'antd/lib/message';
 import Collapse from 'antd/lib/collapse';
 import Tag from 'antd/lib/tag';
-import Statistic from 'antd/lib/statistic';
 import { PlusOutlined, DeleteOutlined, EditOutlined, FolderOutlined, PlayCircleOutlined, EyeOutlined } from '@ant-design/icons';
 import {
   PageContainer,

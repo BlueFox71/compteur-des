@@ -1,5 +1,4 @@
 import { 
-  UserAddOutlined, 
   PlusOutlined, 
   BarChartOutlined, 
   PlayCircleOutlined,
@@ -210,7 +209,6 @@ export default function HomePage() {
     };
   }, [seances, joueursConfig, filtreType, campagneSelectionnee, seanceSelectionnee]);
 
-  const derniereSeance = seances.length > 0 ? seances[seances.length - 1] : null;
 
   // Cartes générales + champions des joueurs
   const cartesBases: StatsCard[] = [

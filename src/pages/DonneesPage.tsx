@@ -4,7 +4,7 @@ import Input from 'antd/lib/input';
 import Button from 'antd/lib/button';
 import Select from 'antd/lib/select';
 import message from 'antd/lib/message';
-import { FileTextOutlined, UploadOutlined, CopyOutlined } from '@ant-design/icons';
+import { UploadOutlined, CopyOutlined } from '@ant-design/icons';
 import { 
   PageContainer, 
   StyledCard, 
@@ -61,8 +61,6 @@ const TableauApercu = styled.table`
 `;
 
 export default function DonneesPage() {
-  const [form] = useForm();
-  const [loading, setLoading] = useState(false);
   const [importForm] = useForm();
   const [importLoading, setImportLoading] = useState(false);
   const [campagnes, setCampagnes] = useState<any[]>([]);

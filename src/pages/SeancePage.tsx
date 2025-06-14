@@ -1,4 +1,3 @@
-import Card from 'antd/lib/card';
 import Form from 'antd/lib/form';
 import Button from 'antd/lib/button';
 import Typography from 'antd/lib/typography';
@@ -9,7 +8,6 @@ import Select from 'antd/lib/select';
 import message from 'antd/lib/message';
 import Divider from 'antd/lib/divider';
 import Collapse from 'antd/lib/collapse';
-import { useNavigate } from 'react-router-dom';
 import { useAppContext } from '../context/AppReducer';
 import { useState, useEffect, useMemo } from 'react';
 import {
@@ -17,11 +15,8 @@ import {
   StyledCard,
   StyledTitle,
   StyledText,
-  StyledButton,
   StyledDivider,
   GridContainer,
-  CollapseTableContainer,
-  FormSection
 } from '../styles';
 import TableauJetsParResultat from '../components/TableauJetsParResultat';
 import PlayerButtons from '../components/PlayerButtons';
@@ -41,7 +36,6 @@ function isMobile() {
 }
 
 export default function SeancePage() {
-  const navigate = useNavigate();
   const { state, dispatch } = useAppContext();
   const [form] = useForm();
   const [seanceForm] = useForm();

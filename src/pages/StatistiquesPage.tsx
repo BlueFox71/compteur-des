@@ -3,7 +3,6 @@ import Card from 'antd/lib/card';
 import Table from 'antd/lib/table';
 import Typography from 'antd/lib/typography';
 import Select from 'antd/lib/select';
-import Statistic from 'antd/lib/statistic';
 import Row from 'antd/lib/row';
 import Col from 'antd/lib/col';
 import Button from 'antd/lib/button';
