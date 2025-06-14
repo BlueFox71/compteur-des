@@ -363,7 +363,7 @@ export default function StatistiquesPage() {
 
   const chargerCampagnes = async () => {
     try {
-      const response = await fetch(`${API_URL}/campagnes`);
+      const response = await fetch(`${API_URL}/api/campagnes`);
       if (!response.ok) throw new Error('Erreur lors du chargement');
       const data = await response.json();
       setCampagnes(data.campagnes || []);
@@ -374,7 +374,7 @@ export default function StatistiquesPage() {
 
   const chargerConfiguration = async () => {
     try {
-      const response = await fetch(`${API_URL}/config`);
+      const response = await fetch(`${API_URL}/api/config`);
       if (!response.ok) throw new Error('Erreur lors du chargement de la configuration');
       const data = await response.json();
       setJoueurs(data.joueurs?.map((j: any) => j.nom) || []);
@@ -386,7 +386,7 @@ export default function StatistiquesPage() {
 
   const chargerSeances = async () => {
     try {
-      const response = await fetch(`${API_URL}/seances`);
+      const response = await fetch(`${API_URL}/api/seances`);
       if (!response.ok) throw new Error('Erreur lors du chargement des séances');
       const data = await response.json();
       setSeances(data.seances || []);
@@ -611,7 +611,7 @@ export default function StatistiquesPage() {
         nombreJets: jetsEdites.length
       };
 
-      const response = await fetch(`${API_URL}/seances/${seanceEnEdition?.id}`, {
+      const response = await fetch(`${API_URL}/api/seances/${seanceEnEdition?.id}`, {
         method: 'PUT',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(seanceModifiee),
@@ -624,7 +624,7 @@ export default function StatistiquesPage() {
       
       // Recharger les séances et mettre à jour la séance sélectionnée
       await chargerSeances();
-      const seancesMisesAJour = await fetch(`${API_URL}/seances`).then(res => res.json());
+      const seancesMisesAJour = await fetch(`${API_URL}/api/seances`).then(res => res.json());
       const seanceTrouvee = seancesMisesAJour.seances.find((s: Seance) => s.id === seanceEnEdition?.id);
       if (seanceTrouvee) {
         setSeanceSelectionnee(seanceTrouvee);
@@ -651,7 +651,7 @@ export default function StatistiquesPage() {
     try {
       console.log(`🌐 Appel API DELETE pour séance ID: ${seanceEnEdition.id}`);
       
-      const response = await fetch(`${API_URL}/seances/${seanceEnEdition.id}`, {
+      const response = await fetch(`${API_URL}/api/seances/${seanceEnEdition.id}`, {
         method: 'DELETE',
         headers: { 'Content-Type': 'application/json' },
       });
@@ -779,7 +779,7 @@ export default function StatistiquesPage() {
       setSeances(seancesModifiees);
 
       // Sauvegarder les modifications sur le serveur
-      const response = await fetch(`${API_URL}/seances/${seanceSelectionnee.id}`, {
+      const response = await fetch(`${API_URL}/api/seances/${seanceSelectionnee.id}`, {
         method: 'PUT',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(seanceModifiee),
