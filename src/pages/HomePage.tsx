@@ -16,10 +16,11 @@ import {
   GridContainer,
   FlexContainer 
 } from '../styles';
-  import { 
-    calculateAllChampions, 
-    getChampionTooltip
-  } from '../components/champions';
+import { 
+  calculateAllChampions, 
+  getChampionTooltip
+} from '../components/champions';
+import { API_URL } from '../utils/api';
 
 const { Option, OptGroup } = Select;
 
@@ -72,9 +73,9 @@ export default function HomePage() {
     
     // Charger les séances et la configuration
     Promise.all([
-      fetch('http://localhost:3001/api/seances').then(res => res.json()),
-      fetch('http://localhost:3001/api/config').then(res => res.json()),
-      fetch('http://localhost:3001/api/campagnes').then(res => res.json())
+      fetch(`${API_URL}/api/seances`).then(res => res.json()),
+      fetch(`${API_URL}/api/config`).then(res => res.json()),
+      fetch(`${API_URL}/api/campagnes`).then(res => res.json())
     ])
     .then(([seancesData, configData, campagnesData]) => {
       setSeances(seancesData.seances || []);

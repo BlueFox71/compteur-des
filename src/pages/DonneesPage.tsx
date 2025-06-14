@@ -13,6 +13,7 @@ import {
   FlexContainer
 } from '../styles';
 import styled from 'styled-components';
+import { API_URL } from '../utils/api';
 
 const { useForm } = Form;
 const { TextArea } = Input;
@@ -76,7 +77,7 @@ export default function DonneesPage() {
 
   const chargerCampagnes = async () => {
     try {
-      const response = await fetch('http://localhost:3001/api/campagnes');
+      const response = await fetch(`${API_URL}/api/campagnes`);
       if (!response.ok) throw new Error('Erreur lors du chargement');
       const data = await response.json();
       setCampagnes(data.campagnes || []);
@@ -87,7 +88,7 @@ export default function DonneesPage() {
 
   const chargerSeances = async () => {
     try {
-      const response = await fetch('http://localhost:3001/api/seances');
+      const response = await fetch(`${API_URL}/api/seances`);
       if (!response.ok) throw new Error('Erreur lors du chargement');
       const data = await response.json();
       setSeances(data.seances || []);
@@ -246,7 +247,7 @@ export default function DonneesPage() {
       };
       
       // Sauvegarder via l'API
-      const response = await fetch('http://localhost:3001/api/seances', {
+      const response = await fetch(`${API_URL}/api/seances`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(seanceData),

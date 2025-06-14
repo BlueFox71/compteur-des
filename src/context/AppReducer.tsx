@@ -1,5 +1,6 @@
 import { createContext, useReducer, useContext, useEffect } from 'react';
 import type { ReactNode, Dispatch } from 'react';
+import { API_URL } from '../utils/api';
 
 export interface Joueur { nom: string; }
 export interface TypeJet { type: string; }
@@ -68,14 +69,14 @@ export function AppProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     // Charger la configuration (joueurs, typesJets)
-    fetch('http://localhost:3001/api/config')
+    fetch(`${API_URL}/api/config`)
       .then(res => res.json())
       .then(data => {
         dispatch({ type: 'SET_JOUEURS', payload: data.joueurs || [] });
         dispatch({ type: 'SET_TYPES_JETS', payload: data.typesJets || [] });
       });
     // Charger les jets
-    fetch('http://localhost:3001/api/jets')
+    fetch(`${API_URL}/api/jets`)
       .then(res => res.json())
       .then(data => {
         dispatch({ type: 'SET_JETS', payload: data.jets || [] });

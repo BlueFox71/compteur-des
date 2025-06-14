@@ -18,6 +18,7 @@ import {
   FlexContainer
 } from '../styles';
 import styled from 'styled-components';
+import { API_URL } from '../utils/api';
 
 const { Panel } = Collapse;
 
@@ -119,7 +120,7 @@ export default function CampagnesSeancesPage() {
 
   const chargerCampagnes = async () => {
     try {
-      const response = await fetch('http://localhost:3001/api/campagnes');
+      const response = await fetch(`${API_URL}/api/campagnes`);
       if (!response.ok) throw new Error('Erreur lors du chargement');
       const data = await response.json();
       setCampagnes(data.campagnes || []);
@@ -131,7 +132,7 @@ export default function CampagnesSeancesPage() {
 
   const chargerSeances = async () => {
     try {
-      const response = await fetch('http://localhost:3001/api/seances');
+      const response = await fetch(`${API_URL}/api/seances`);
       if (!response.ok) throw new Error('Erreur lors du chargement');
       const data = await response.json();
       setSeances(data.seances || []);
@@ -152,7 +153,7 @@ export default function CampagnesSeancesPage() {
 
       const nouvellesCampagnes = [...campagnes, nouvelleCampagne];
       
-      const response = await fetch('http://localhost:3001/api/campagnes', {
+      const response = await fetch(`${API_URL}/api/campagnes`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ campagnes: nouvellesCampagnes }),
@@ -188,7 +189,7 @@ export default function CampagnesSeancesPage() {
         try {
           const nouvellesCampagnes = campagnes.filter(c => c.id !== campagneId);
           
-          const response = await fetch('http://localhost:3001/api/campagnes', {
+          const response = await fetch(`${API_URL}/api/campagnes`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ campagnes: nouvellesCampagnes }),
